@@ -7,7 +7,7 @@
 وب‌سایت مدرن و واکنش‌گرای سرویس DNS گیمینگ؛  
 طراحی‌شده برای معرفی یک اتصال سریع‌تر، پایدارتر و تجربه بهتر در بازی‌های آنلاین.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ar-dns-gaming.arkin2008.chatgpt.site)
+
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#تکنولوژیها)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#تکنولوژیها)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)](#تکنولوژیها)
