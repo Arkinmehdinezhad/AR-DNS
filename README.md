@@ -12,7 +12,6 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#تکنولوژیها)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111)](#تکنولوژیها)
 
-[مشاهده نسخه آنلاین](https://ar-dns-gaming.arkin2008.chatgpt.site) •
 [اجرای پروژه](#اجرای-پروژه) •
 [ساختار فایلها](#ساختار-پروژه)
 
